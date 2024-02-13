@@ -1,0 +1,32 @@
+1)False or (True or (2 < 3))
+
+False or (True or True)
+
+False or True
+
+True
+
+2)(2 > 3) and (3 < 4) or True
+
+(True) and (True) or True
+
+True
+
+3) (not True or 5**2 != 1000) and not False
+
+(False or True) and not False
+
+True and not False
+
+True and True
+
+True
+
+4)not ((None == False) and (25 >= 25)) and ("123" == 123)
+
+Not (False) and (True)
+
+True and False
+
+False
+
